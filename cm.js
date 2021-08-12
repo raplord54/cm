@@ -39,7 +39,7 @@ r_text[19] = "19 cm çıkar da gölgesinde serinleyelim reis";
 r_text[20] = "20 cm aletin ayrı bir kimliği var mı ?";
 r_text[21] = "31 cm vergi ödüyon mu reis";
 
-    var i = Math.floor(100*Math.random())
+    var i = Math.floor(21*Math.random())
     
     await message.sendMessage(`[■□□□□□□□□□] 10%`);
     
